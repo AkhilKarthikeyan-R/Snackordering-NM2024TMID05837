@@ -11,3 +11,7 @@ working:
       -> After validation the user will be taken to the home page there they can view the list of snacks. 
       -> They can order the snack they want by adding it to the cart.
       -> They can also monitor the order status in the app itself.
+Files:
+      -> We have uploaded the project source code inside a folder named PROJECT.
+      -> We have also uploaded the output screenshots in a folder named OUTPUT SCREENSHOTS.
+      -> The drive link of full video explanation of our app is also uploaded.
