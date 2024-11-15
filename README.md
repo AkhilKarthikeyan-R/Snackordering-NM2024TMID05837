@@ -6,7 +6,7 @@ Project Overview:
       
 working:
 
-      -> There will be a button to register, user has to click that button and complete the registration by entering valid credentials.
+-> There will be a button to register, user has to click that button and complete the registration by entering valid credentials.
       -> The user want to log in with the registered username and password.
       -> After validation the user will be taken to the home page there they can view the list of snacks. 
       -> They can order the snack they want by adding it to the cart.
